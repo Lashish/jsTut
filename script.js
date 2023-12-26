@@ -192,4 +192,4 @@ function curryingfunction1(a) {
     };
   };
 }
-console.log(curryingfunction1(1)(2));
+console.log(curryingfunction1(1)(2)(3));
